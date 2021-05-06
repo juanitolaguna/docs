@@ -10,6 +10,7 @@ Such as applications are usually considered "frontends" and provide interfaces f
 
 {% page-ref page="store-api-guide/" %}
 
+<!-- markdown-link-check-disable-next-line -->
 {% embed url="https://shopware.stoplight.io/docs/store-api/storeapi.json" caption="" %}
 
 ## Backend-facing integrations - Admin API
